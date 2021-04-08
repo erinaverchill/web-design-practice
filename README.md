@@ -1,5 +1,4 @@
-# web-design-challenge
-web design hw
+# web-design-practice
 
 Files to open:
 - index.html (landing page)
